@@ -1,5 +1,0 @@
-git is easy to learn
-git is a version control
-
-conflict is resolved 
-
