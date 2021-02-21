@@ -1,3 +1,5 @@
 git is easy to learn
 git is a version control
-git is easy to learn
+
+conflict is resolved 
+
